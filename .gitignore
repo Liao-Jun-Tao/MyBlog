@@ -8,11 +8,15 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+deploy.sh
+pnpm-lock.yaml
 .DS_Store
 dist
 dist-ssr
 coverage
 *.local
+
+
 
 /cypress/videos/
 /cypress/screenshots/
